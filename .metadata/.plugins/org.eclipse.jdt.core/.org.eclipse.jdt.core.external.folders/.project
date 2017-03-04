@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>D:/javaprograms/eclipse/plugins/org.apache.axis_1.4.0.v201411182030/lib</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>D:/javaprograms/eclipse/plugins/org.eclipse.m2e.maven.indexer_1.6.2.20150902-0001</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>D:/javaprograms/eclipse/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.6.2.20150902-0001</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>D:/javaprograms/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001</location>
+		</link>
+	</linkedResources>
+</projectDescription>

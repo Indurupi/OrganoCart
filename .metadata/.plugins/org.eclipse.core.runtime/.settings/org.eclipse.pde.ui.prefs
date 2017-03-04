@@ -1,0 +1,4 @@
+Preferences.MainPage.addToJavaSearch=true
+Preferences.MainPage.overwriteBuildFilesOnExport=prompt
+Preferences.MainPage.showTargetStatus=true
+eclipse.preferences.version=1

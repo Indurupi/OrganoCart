@@ -1,0 +1,6 @@
+#Wed Mar 01 10:05:08 IST 2017
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=available software
